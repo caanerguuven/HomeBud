@@ -1,0 +1,4 @@
+Jwt veya ona benzer kullanılacak.
+env dosyasından okutulması sağlanacak.
+
+
